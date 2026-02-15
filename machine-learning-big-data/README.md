@@ -1,4 +1,4 @@
-## Regression and Classification with AstroML and SDSS Data
+## Supervised Learning for Regression and Classification on SDSS Astronomical Data
 
 This coursework explores regression and classification problems using astronomical data from the astroML package.
 
