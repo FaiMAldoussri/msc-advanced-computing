@@ -1,4 +1,4 @@
-## Num Opt
+## Numerical Optimization
 
 This repository contains the assessed coursework and the final project for the Numerical Optimisation module. Both components focus on the mathematical formulation, analysis, and numerical solution of optimisation problems, with particular emphasis on convergence behaviour, robustness, and theoretical justification.
 
